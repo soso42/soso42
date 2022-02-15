@@ -2,7 +2,7 @@
 - 🌱 I’m a career changer actively studying programming. 
 - 👀 I’m interested mainly in Java (Spring) & Javascript (Angular), but I'm not afraid of new technologies.
 
-Here's small list of Jetbrain's Academy java developer track projects created while learning.
+Here's [a small list](https://github.com/soso42/Java-Projects) of Jetbrain's Academy java developer track [projects](https://github.com/soso42/Java-Projects) created while learning.
 
 
 
