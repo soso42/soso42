@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🌱 I’m a career changer actively studying programming. 
+- 👀 I’m interested mainly in Java (Spring) & Javascript (Angular), but I'm not afraid of new technologies.
+
+Here's small list of Jetbrain's Academy java developer track projects created while learning.
+
+
 
 <!--
 **soso42/soso42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
