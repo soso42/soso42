@@ -1,12 +1,12 @@
 ### Hi there 👋
-- 🌱 I’m a career changer actively studying programming. 
+- 🌱 I’m a career switcher actively studying programming. 
 - 👀 I’m interested mainly in Java, but I'm not afraid of new technologies.
-
+<!--
 Here's [a small list](https://github.com/soso42/Java-Projects) of Jetbrain's Academy java developer track [projects](https://github.com/soso42/Java-Projects) created while learning.
 
 
 
-<!--
+
 **soso42/soso42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
